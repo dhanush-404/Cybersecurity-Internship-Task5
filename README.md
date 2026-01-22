@@ -10,11 +10,12 @@
 ## Study
 - Studied malware types: Virus, Worm, Trojan, Ransomware
 - Studied basic malware behavior such as file modification,
-  persistence, and malicious activity detection
+  persistence, and malicious activity detection..everything included in 'malware analysis.pdf' file...
 
 ## Sample Used
 - EICAR Test Malware
-- MD5: 44d88612fea8a8f36de82e1278abb02f
+- MD5: 44d88612fea8a8f36de82e1278abb02fs
+  (screenshots attached)
 
 ## Command Used
 
