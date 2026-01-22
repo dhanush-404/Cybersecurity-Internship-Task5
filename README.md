@@ -18,7 +18,7 @@
 
 ## Command Used
 
-firefox https://www.virustotal.com
+ $ firefox https://www.virustotal.com
 
 ## Result
 - Detected by multiple antivirus engines
